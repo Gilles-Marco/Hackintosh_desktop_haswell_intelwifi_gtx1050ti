@@ -40,3 +40,32 @@ To mount post-install the macOS' EFI partition to copy the EFI directory's repo 
 ## Heliport
 
 To install post-install to have a wifi icon displayed in the menu bar
+
+# Installation guide
+
+See opencore installation guide https://dortania.github.io/OpenCore-Install-Guide/
+
+This repo cover the following steps :
+- Addind the base opencore files
+- Gathering files
+- Getting started with ACPI
+- config.plist Setup
+
+Getting the MacOS Base Image, USB Creation, Installation, Troubleshooting and Post-Install are up to you.
+
+Feel free to double check my work with the OpenCore installation guide listed above, I provide no guarantee and this software can potentially cause hardware damage or data loss. I deny all responsibilities, do it at your own risk.
+
+This repo may also be out of date and may not use the best pratice available when you do the installation.
+
+# Credit
+
+See OpenCore credits https://dortania.github.io/OpenCore-Install-Guide/misc/credit.html
+
+Credits to https://github.com/OpenIntelWireless for the intel wifi driver
+
+# License
+
+Software under CC BY-NC-SA 4.0 license distributed as is and providing no guarantee, use at your own risk.
+
+See also https://dortania.github.io/OpenCore-Install-Guide/LICENSE.html
+
